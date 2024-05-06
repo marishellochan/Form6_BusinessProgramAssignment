@@ -1,0 +1,13 @@
+1020 Oats_&_Tumeric_bar_soap 15.00 Available
+1021 Neem_&_Moringa_bar_soap 15 Out_of_stock
+1022 Coffee_&_Tea tree_bar_soap 15 Few_left
+1023 Cinnamon_&_Nutmeg_bar_soap 15 Few_left
+1024 Chocolate_&_Honey_bar_soap 20 Available
+1025 Beetroot_&_Lavender_bar_soap 20 Available
+1026 Coconut_&_Shea_butter_bar_soap 20 Few_left
+1027 Charcoal_&_Tea_tree_bar_soap 20 Out_of_stock
+1028 Lip_balm 12 Available
+1029 Lip_scrub 10 Available
+1030 Moisturizing_lotion 35 Available
+1031 Foot_soak 10 Out_of_stock
+1032 Healing_Balm 15 Available
